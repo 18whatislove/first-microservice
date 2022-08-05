@@ -1,0 +1,6 @@
+vendor/
+Makefile
+versions.txt
+.vs/
+client/
+.DS_Store
